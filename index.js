@@ -20,6 +20,7 @@ app.post('/api/chat', (req, res) => {
 
 app.get('/api/questions', (req, res) => {
     const questions = Object.keys(responses);
+    console.log(questions)
     res.json({ questions });
 });
 
