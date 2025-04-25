@@ -199,7 +199,7 @@
 
     <script>
         async function loadQuestions() {
-            const res = await fetch('http://localhost:3001/api/questions');
+            const res = await fetch('/api/questions');
             const data = await res.json();
 
             const container = document.getElementById('questionButtons');
