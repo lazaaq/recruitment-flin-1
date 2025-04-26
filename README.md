@@ -1,9 +1,9 @@
-## Description : 
-Aplikasi ini adalah simulasi chatbot dimana user dapat bertanya/FAQ melalui chat di sisi bawah kanan. Adapun untuk bertanya user dapat klik pertanyaan yang ingin ditanyakan. User tidak dapat mengetik karena jika user mengetik, sistem masih kurang pintar dalam menjawab pertanyaan random. Dibutuhkan AI jika ingin allow user untuk bertanya pertanyaan diluar yang telah disajikan. 
+## Description :
+This application is a chatbot simulation where users can ask/FAQ via chat on the bottom right side. As for asking questions, users can click on the question they want to ask. Users cannot type because if users type, the system is still not smart enough to answer random questions. AI is needed if you want to allow users to ask questions outside of those presented.
 
-## Cara Install : 
+## How to Install :
 ```bash
 git clone https://github.com/username/proyek.git
-cd proyek
+cdproyek
 npm install
 npm start
